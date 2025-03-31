@@ -297,10 +297,16 @@ img {
   width: 85%;
 }
 .skills__js {
-  width: 65%;
+  width: 95%;
 }
-.skills__ux {
-  width: 50%;
+.skills__python {
+  width: 90%;
+}
+.skills__golang {
+  width: 97%;
+}
+.skills__docker {
+  width: 90%;
 }
 .skills__img {
   border-radius: 0.5rem;
