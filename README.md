@@ -1,11 +1,11 @@
 # Portfolio Responsive Complete
 ## Semester 2 | Tugas Website Profile
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Situs Portofolio Pribadi Responsif menggunakan HTML, CSS, dan JavaScript.
+- Animasi saat scrolling.
+- Scrolling yang harus pada setiap bagian.
+- Dikembangkan dengan metodologi Mobile First, kemudian untuk desktop.
+- Kompatibel dengan semua perangkat mobile dan memiliki antarmuka pengguna yang indah.
 
 ### [Website Profile Link](https://titanioy.netlify.app/)
 ![preview img](/preview.png)
